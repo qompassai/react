@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Qompass AI on NuxtJS"
+title: "Qompass AI on React"
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Porter"
@@ -8,7 +8,7 @@ authors:
     affiliation: "Qompass AI"
 version: "v2025-05-18"
 date-released: "2025-05-18"
-repository-code: "https://github.com/qompassai/tor"
+repository-code: "https://github.com/qompassai/react"
 license: "Q-CDA-1.0"
 keywords:
   - AI
@@ -18,5 +18,5 @@ keywords:
   - Quantum
   - web framework
   - javascript
-  - nuxt
-abstract: "Qompass AI on Nuxt.JS"
+  - react
+abstract: "Qompass AI on React"

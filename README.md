@@ -1,21 +1,21 @@
-<!-- /qompassai/nuxtjs/README.md -->
+<!-- /qompassai/react/README.md -->
 <!-- ---------------------------- -->
 <!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
 
-<h2> Nuxt.js: For "vue"tiful JS   </h2>
+<h2> React: When state management and components matter  </h2>
 
-<h3> Qompass AI on Nuxt </h3>
+<h3> Qompass AI on React </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-nuxtjs)
-  <a href="https://nuxt.com/">
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
+  <a href="https://react.dev/">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </a>
 <br>
-<a href="https://nuxt.com/docs">
-  <img src="https://img.shields.io/badge/Nuxt_Documentation-blue?style=flat-square" alt="Nuxt.js Documentation">
+<a href="https://react.dev/learn">
+  <img src="https://img.shields.io/badge/React_Documentation-blue?style=flat-square" alt="React Documentation">
 </a>
-<a href="https://nuxt.com/blog">
-  <img src="https://img.shields.io/badge/Nuxt_Tutorials-green?style=flat-square" alt="Nuxt.js Tutorials">
+<a href="https://github.com/topics/react-tutorial">
+  <img src="https://img.shields.io/badge/React_Tutorials-green?style=flat-square" alt="React Tutorials">
 </a>
 <br>
   <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
