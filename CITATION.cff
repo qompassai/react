@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "react"
+title: "Qompass AI on React"
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Porter"
@@ -16,7 +16,7 @@ keywords:
   - Healthcare
   - Post-Quantum Cryptography
   - Quantum
-  - data science
-  - machine learning
-  - python
+  - frontend
+  - javascript
+  - react
 abstract: "Qompass AI on React: When state management and components matter for JS"

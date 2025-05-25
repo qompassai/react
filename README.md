@@ -6,7 +6,8 @@
 
 <h3> Qompass AI on React </h3>
 
-![Repository Views](https://komarev.com/ghpvc/?username=qompassai-nuxtjs)
+![Repository Views](https://komarev.com/ghpvc/?username=qompassai-react)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/react/total?style=flat-square)
   <a href="https://react.dev/">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </a>
